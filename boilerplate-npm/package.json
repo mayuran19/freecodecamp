@@ -1,6 +1,6 @@
 {
-	"author": "Mayuran Satchithanantham",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Mayuran Satchithanantham",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
